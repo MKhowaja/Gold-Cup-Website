@@ -31,5 +31,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## Icons
 
-# Using font awesome
 https://github.com/Justineo/vue-awesome
